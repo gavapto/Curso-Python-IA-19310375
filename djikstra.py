@@ -11,7 +11,6 @@ import matplotlib.pyplot as plt
 import tkinter as tt
 from tkinter import ttk
 from PIL import ImageTk,Image
-from tkinter.ttk import Label
 
 class dij():
     def __init__(self):
